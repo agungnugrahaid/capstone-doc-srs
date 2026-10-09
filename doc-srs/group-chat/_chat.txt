@@ -1,0 +1,384 @@
+[16/09/26, 19.09.16] Capstone Project: ‎You created group “something”
+[16/09/26, 19.09.16] Capstone Project: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[16/09/26, 19.10.27] Capstone Project: ‎You changed this group's icon
+[21/09/26, 14.45.31] Rifqi Adhi Saputra (SI23): mas mba, ini jadi nya klien nya mau bawa dari siapa ya?
+[21/09/26, 14.48.00] Capstone Project: ‎You changed the group name to “Capstone Project”
+[21/09/26, 14.51.02] Yordan Gabriel (SI24R): adakah saudara,teman yang butuh didevelop sistem bisnisnya, nnti bayar server sama domain aja @⁨‎all⁩ 
+
+daripada nyari di luar
+[21/09/26, 14.51.49] Rifqi Adhi Saputra (SI23): saya kebetulan baru ga ada sih ini mas, dari perusahaan juga udah ada team nya soalnya
+[21/09/26, 14.52.23] Yordan Gabriel (SI24R): sama kalau ini
+[21/09/26, 14.52.36] Agung Nugraha: https://docs.google.com/document/d/1CF7jDTtu7XPOfZZ7BnaBYnnWRkwsMMmJBQOP6hikzb4/edit?tab=t.0 ta share doc ya bangs
+[21/09/26, 14.52.48] Yordan Gabriel (SI24R): siap
+[21/09/26, 14.52.58] Agung Nugraha: share email kak @⁨Isnaini “Anggis” Anggista Damayanti⁩
+[23/09/26, 09.31.30] Rifqi Adhi Saputra (SI23): jadinya gimana ya mas/mba?
+[23/09/26, 09.31.38] Rifqi Adhi Saputra (SI23): udah hari H soale
+[23/09/26, 09.31.43] Rifqi Adhi Saputra (SI23): mau random klien aja kah
+[23/09/26, 09.32.17] Yordan Gabriel (SI24R): Iya random client aja, coba saya coba kirim ya ideanya
+[23/09/26, 09.32.20] Yordan Gabriel (SI24R): executeable ga
+‎[23/09/26, 09.43.10] Yordan Gabriel (SI24R): Capstone Project - Proposal Ide Proyek & Use Case.pdf • ‎14 pages ‎<attached: 00000017-Capstone Project - Proposal Ide Proyek & Use Case.pdf>
+[23/09/26, 09.43.37] Yordan Gabriel (SI24R): @⁨‎all⁩ 
+
+coba kalau spt ini, saya kasih 2 skenario
+[23/09/26, 09.44.13] Rifqi Adhi Saputra (SI23): buat saya aman sih mas
+[23/09/26, 09.44.30] Rifqi Adhi Saputra (SI23): berarti tinggal nyari calon klien nya, cocok buat usaha fnb sih ini
+[23/09/26, 09.44.43] Rifqi Adhi Saputra (SI23): mungkin kalo ada kenalan atau saudara yg punya usaha fnb
+[23/09/26, 09.45.27] Yordan Gabriel (SI24R): paling enak yang opsi B ya, karena itu lebih mudah.. gaperlu minta API socmed
+[23/09/26, 09.46.15] Rifqi Adhi Saputra (SI23): opsi B juga oke sih mas
+[23/09/26, 09.46.33] Rifqi Adhi Saputra (SI23): lebih luas juga klien yg bisa masuk
+[23/09/26, 09.46.48] Rifqi Adhi Saputra (SI23): hampir semua umkm pun bisa masuk
+[23/09/26, 09.46.56] Yordan Gabriel (SI24R): iya tinggal buat bot auto replynya aja, casenya fixing issue supaya single source of truth
+[23/09/26, 09.47.08] Rifqi Adhi Saputra (SI23): betul mas
+[23/09/26, 09.47.52] Yordan Gabriel (SI24R): nah monggo kalau di grup iini ada
+[23/09/26, 09.48.16] Yordan Gabriel (SI24R): kalau gaada ya jalan dulu saja dengan use case ini, atau yang punya bisnis bisa saja ini dipake dulu
+[23/09/26, 09.48.46] Rifqi Adhi Saputra (SI23): kayaknya tetep perlu cari klien mas
+[23/09/26, 09.48.57] Rifqi Adhi Saputra (SI23): ini random klien maksude emg langsung bikin ide/konsep aja
+[23/09/26, 09.49.10] Rifqi Adhi Saputra (SI23): dan klien belakangan jadi lebih enak buat "nyari klien" nya
+[23/09/26, 09.49.32] Rifqi Adhi Saputra (SI23): tapi kalo emg bisa ngejelasin ke pak albert nya kenapa blm ada klien juga gpp palingan
+[23/09/26, 09.50.03] Rifqi Adhi Saputra (SI23): soalnya kayak malah aneh kalo udah ada judul tapi belum ada klien nya
+[23/09/26, 09.50.26] Yordan Gabriel (SI24R): ya betul
+[23/09/26, 09.50.32] Yordan Gabriel (SI24R): yang lain coba inputnya @⁨‎all⁩
+[23/09/26, 09.52.27] Rifqi Adhi Saputra (SI23): sebenernya ga perlu jauh jauh juga sih mas
+‎[23/09/26, 09.52.36] Rifqi Adhi Saputra (SI23): ini contoh case buat opsi B aja ‎<attached: 00000038-PHOTO-2026-09-23-09-52-36.jpg>
+[23/09/26, 09.52.55] Rifqi Adhi Saputra (SI23): kebetulan ada laundry deket mess saya, dan mereka pake bot WA buat ngirim info order dll ‎<This message was edited>
+[23/09/26, 09.53.19] Rifqi Adhi Saputra (SI23): jadi bisa juga masuk misal ada tetangga yang buka laundry dan masih serba manual
+[23/09/26, 09.57.33] Yordan Gabriel (SI24R): ini dia POS ga sih kalau ini
+[23/09/26, 09.57.58] Rifqi Adhi Saputra (SI23): sepaket sih mas kalo buat case di laundry langganan saya ini
+[23/09/26, 09.58.06] Rifqi Adhi Saputra (SI23): cuma kalo buat project ini sendiri ga wajib
+[23/09/26, 09.58.52] Rifqi Adhi Saputra (SI23): walaupun kalau mau bikin semacam aplikasi/web sederhana juga bisa
+[23/09/26, 09.59.01] Rifqi Adhi Saputra (SI23): karena kemaren kan ada pembagian buat anggota FE juga ‎<This message was edited>
+‎[23/09/26, 10.00.29] Rifqi Adhi Saputra (SI23): ‎<attached: 00000046-PHOTO-2026-09-23-10-00-29.jpg>
+[23/09/26, 10.18.03] Rifqi Adhi Saputra (SI23): dari temen ku sih ini ada mas yg lagi nyari sistem aplikasi
+https://www.instagram.com/potta_photo
+[23/09/26, 10.18.21] Rifqi Adhi Saputra (SI23): cuma konsep usaha nya rada ribet, mau di implementasiin dimana AI/ML nya
+[23/09/26, 10.26.32] Rifqi Adhi Saputra (SI23): kalo kurangkum pake AI, kurleb model sistem yg diperluin gini mas
+
+Admin Dashboard
+→ Kelola cabang
+→ Kelola frame/template photobox
+→ Setting harga
+→ Setting konfigurasi
+→ Monitoring transaksi
+
+kemudian di setiap cabang ada:
+
+Photobox Desktop App
+→ Sync frame dari server
+→ Customer pilih frame/paket
+→ Kamera terhubung ke PC
+→ Countdown
+→ Capture beberapa foto
+→ Foto dimasukkan ke frame
+→ Generate hasil final
+→ Upload server
+→ Generate QR
+→ Customer scan QR
+→ Download foto
+[23/09/26, 10.27.20] Rifqi Adhi Saputra (SI23): dan ini contoh mekanisme AI nya
+
+AI Automatic Photo Quality Detection
+
+Setelah kamera mengambil misalnya 4 foto, sebelum hasil final dibuat, AI mengecek kualitas masing-masing foto.
+
+Contoh:
+
+Photo 1
+Face detected: ✓
+Eyes open: ✓
+Blur: Low
+Exposure: Good
+Quality: 94%
+
+Photo 2
+Face detected: ✓
+Eyes open: ✕
+Blur: Medium
+Quality: 61% — Retake Recommended
+
+Jadi pipeline-nya:
+
+Camera Capture
+
+↓
+
+Computer Vision
+
+↓
+
+Face Detection
+Eye/Open-Eye Detection
+Blur Detection
+Exposure Detection
+
+↓
+
+Quality Assessment
+
+↓
+
+Accept / Recommend Retake
+
+↓
+
+Frame Processing
+
+↓
+
+Upload + QR
+[23/09/26, 10.28.33] Rifqi Adhi Saputra (SI23): tapi tentunya skema nya bisa di persimpel
+[23/09/26, 10.28.38] Rifqi Adhi Saputra (SI23): karena ini cuma tugas kuliah
+[23/09/26, 10.29.04] Yordan Gabriel (SI24R): iya ini terlalu advance
+[23/09/26, 10.29.11] Rifqi Adhi Saputra (SI23): dari ku ini ya mas, kalo ga cocok bisa minta saran yg lain, karena kebetulan saya ga banyak punya kenalan yg punya bisnis
+[23/09/26, 10.29.14] Yordan Gabriel (SI24R): WA Chatbot dia ga butuh kah 😂
+[23/09/26, 10.29.21] Rifqi Adhi Saputra (SI23): yg penting nanti malam udah fix aja
+[23/09/26, 10.29.38] Rifqi Adhi Saputra (SI23): kayake ngga mas wkwk
+[23/09/26, 10.30.15] Yordan Gabriel (SI24R): kita tunggu yang lain dulu aja, ini ada 3 sisanya masih blm baca
+[23/09/26, 11.43.59] Enrico Yuda Dwinata (SI24T): sorry baru bales
+[23/09/26, 11.44.37] Enrico Yuda Dwinata (SI24T): udh tak baca kayanya skenario B paling actionable dan menjual
+[23/09/26, 11.47.03] Enrico Yuda Dwinata (SI24T): ngasih raw ide dikit mungkin implementasi ai/ml nya bisa ke arah klasifikasi lead (jd hot warm cold) based on pesan/time stamp, etc. yg hot tandanya prioritas direply sales duluan karena potensi closing paling tinggi gitu idk cmiiw
+‎[23/09/26, 11.54.33] Yordan Gabriel (SI24R): capstone project.pdf • ‎3 pages ‎<attached: 00000062-capstone project.pdf>
+[23/09/26, 11.54.56] Yordan Gabriel (SI24R): tinggal tambahin repo github aja..
+[23/09/26, 11.55.00] Yordan Gabriel (SI24R): oke
+[23/09/26, 11.56.28] Yordan Gabriel (SI24R): gini aja, daripada ribet nyari bisnis, catut punya saya aja.. saya udah sampai pasang di threads juga ga nemu
+cuma nanti clientnya jadi saya sendiri 😂😂😂
+
+tapi gabisa dapet implementatifnya karena punya saya udah ada toolsnya, tapi namanya mau dipake gapapa
+[23/09/26, 11.57.01] Yordan Gabriel (SI24R): gitu ya @⁨‎all⁩ 
+
+yang penting jalan aja projectnya, dapet nilai terus lulus 😂
+[23/09/26, 11.58.02] Yordan Gabriel (SI24R): oke
+[23/09/26, 11.59.27] Rifqi Adhi Saputra (SI23): oke mas
+[23/09/26, 11.59.37] Rifqi Adhi Saputra (SI23): cuma mending jangan atas nama mu mas
+[23/09/26, 11.59.42] Rifqi Adhi Saputra (SI23): itu bisnis mu sendiri atau ada orang lain mas
+[23/09/26, 11.59.49] Yordan Gabriel (SI24R): punya sendiri 😂
+[23/09/26, 12.00.01] Rifqi Adhi Saputra (SI23): punya adek gak mas wkwk
+[23/09/26, 12.00.18] Yordan Gabriel (SI24R): kayanya kemaren pak AL ngomong kalau punya sendiri gapapa ga sih
+[23/09/26, 12.00.24] Rifqi Adhi Saputra (SI23): oiya kah
+[23/09/26, 12.00.30] Rifqi Adhi Saputra (SI23): kalo gitu ya gpp mas
+[23/09/26, 12.00.43] Yordan Gabriel (SI24R): iya, kalau ada use case punya perusahaan atau usaha sendiri gapapa
+[23/09/26, 12.03.24] Agung Nugraha: bang @⁨Rifqi Adhi Saputra (SI23)⁩  nitip masukin ke groupnya pak Al yak
+[23/09/26, 12.03.46] Rifqi Adhi Saputra (SI23): oke mas
+[23/09/26, 12.06.40] Agung Nugraha: mas @⁨Enrico Yuda Dwinata (SI24T)⁩ sekalian
+[23/09/26, 12.06.58] Yordan Gabriel (SI24R): ada komen projectnya ga omm @⁨Agung Nugraha⁩
+[23/09/26, 12.07.59] Agung Nugraha: aman aja si, belum explore ane
+[23/09/26, 12.08.00] Agung Nugraha: awokawokawok
+[23/09/26, 12.08.19] Yordan Gabriel (SI24R): le penting mlaku 😂
+[23/09/26, 12.16.07] Enrico Yuda Dwinata (SI24T): mau
+[23/09/26, 12.16.15] Rifqi Adhi Saputra (SI23): oke wait mas
+[23/09/26, 16.55.21] Rifqi Adhi Saputra (SI23): @⁨Yordan Gabriel (SI24R)⁩ mas ini nanti kalo semisal ditanyain sama pak albert terkait klien dan bidang nya, mas nya yang jawab kan ya? soalnya ini saya ga tau sama sekali tentang bisnis nya mas yordan soalnya
+[23/09/26, 16.57.21] Yordan Gabriel (SI24R): Aman.. nnti saya yang present gapapa
+[23/09/26, 16.57.29] Rifqi Adhi Saputra (SI23): woke siap mas
+[23/09/26, 16.57.35] Rifqi Adhi Saputra (SI23): kayaknya ga bakal present apa apa sih mas
+[23/09/26, 16.57.42] Rifqi Adhi Saputra (SI23): paling cuma ditanya terkait klien aja
+[23/09/26, 16.57.52] Rifqi Adhi Saputra (SI23): keliatannya pak albert nya ada urusan jadi cuma bentar palingan
+[23/09/26, 16.57.55] Yordan Gabriel (SI24R): Iya paling
+
+Soalnya kelompok sebelah jg blm ngapa2in
+[23/09/26, 16.58.30] Rifqi Adhi Saputra (SI23): wkwk
+‎[24/09/26, 19.10.57] Rifqi Adhi Saputra (SI23): mas, dokumen kemaren mau siapa yg ngisi ya? ini disuruh deskripsi permasalah sama informasi data saya ga tau apa apa terkait data usaha nya mas yordan mas ‎<attached: 00000094-PHOTO-2026-09-24-19-10-57.jpg>
+[24/09/26, 19.13.15] Yordan Gabriel (SI24R): Saya aja yang ngisi
+[24/09/26, 19.13.17] Yordan Gabriel (SI24R): Malem ini tak isi
+[24/09/26, 19.13.26] Yordan Gabriel (SI24R): Btw ini gaada link submission ya
+[24/09/26, 19.14.15] Isnaini “Anggis” Anggista Damayanti: Iyaa belom ada mas
+[24/09/26, 19.17.42] Rifqi Adhi Saputra (SI23): woke mas
+[24/09/26, 19.17.52] Rifqi Adhi Saputra (SI23): biar tak tanyain di grup mas
+[24/09/26, 19.43.24] Yordan Gabriel (SI24R): oke
+[24/09/26, 20.10.25] Yordan Gabriel (SI24R): ‎This message was deleted.
+[24/09/26, 20.10.25] Yordan Gabriel (SI24R): @⁨‎all⁩
+‎[24/09/26, 20.11.22] Yordan Gabriel (SI24R): Form-Usulan-Judul-Capstone-Asentra.docx ‎<attached: 00000104-Form-Usulan-Judul-Capstone-Asentra.docx>
+[24/09/26, 20.28.35] Rifqi Adhi Saputra (SI23): wokeh mas
+[24/09/26, 20.29.36] Yordan Gabriel (SI24R): Besok dibantu up di ELE ya mas, kalau ada yang mau diubah2 isinya juga boleh...
+[24/09/26, 20.30.01] Rifqi Adhi Saputra (SI23): oke siap mas
+[24/09/26, 20.33.15] Enrico Yuda Dwinata (SI24T): thank u mas yordan
+[24/09/26, 20.33.48] Isnaini “Anggis” Anggista Damayanti: Makasi mas yordan🙏🏻
+[24/09/26, 20.50.58] Yordan Gabriel (SI24R): Sama sama mas mba
+[03/10/26, 21.05.25] Yordan Gabriel (SI24R): malam ges
+‎[03/10/26, 21.05.38] Yordan Gabriel (SI24R): Laporan-Capstone-SAPA.docx ‎<attached: 00000112-Laporan-Capstone-SAPA.docx>
+[03/10/26, 21.05.39] Yordan Gabriel (SI24R): @⁨‎all⁩
+[03/10/26, 21.05.47] Yordan Gabriel (SI24R): sama kayanya kita perlu sedia no whatsapp dr sekarang buat test
+[03/10/26, 21.05.58] Yordan Gabriel (SI24R): krn pak Al kemarin sempet mention 😂
+[03/10/26, 21.06.24] Yordan Gabriel (SI24R): dibantu nego aja bagian wa itu ya, krn ini kan use case real
+
+even pake official API juga potensi kebanned masih ada
+[03/10/26, 21.07.26] Yordan Gabriel (SI24R): https://www.figma.com/design/fh3P0a8GMbji6eRhwl6tiE/Untitled?node-id=0-1&t=9E0GKaBNYtXU3P3Q-1
+[03/10/26, 21.12.07] Rifqi Adhi Saputra (SI23): wokey mas
+[03/10/26, 21.16.26] Isnaini “Anggis” Anggista Damayanti: Eh demi apa si ini udah di kerjain semua?
+[03/10/26, 21.19.15] Isnaini “Anggis” Anggista Damayanti: Yg belum dikerjain apa ya mas?
+[03/10/26, 21.20.07] Yordan Gabriel (SI24R): Itu mbak dibantu isi nim aja, daftar isi daftar tabel dan daftar gambar 😂
+[03/10/26, 21.20.24] Yordan Gabriel (SI24R): Apa mau ngerjain ulang jg boleh 😂😂
+[03/10/26, 21.20.39] Isnaini “Anggis” Anggista Damayanti: Wkwkwk ngokeyyy
+[03/10/26, 21.20.50] Isnaini “Anggis” Anggista Damayanti: Makasiii ya mas
+‎[03/10/26, 21.20.54] Isnaini “Anggis” Anggista Damayanti: ‎<attached: 00000125-STICKER-2026-10-03-21-20-54.webp>
+[03/10/26, 21.21.01] Yordan Gabriel (SI24R): Aman 👌
+[03/10/26, 21.21.29] Yordan Gabriel (SI24R): Btw kita gaperlu ganti project kan ya?
+
+Kemarin kayanya pak AL rada ga sreg wkwwkwkw
+
+@⁨‎all⁩
+[03/10/26, 21.21.42] Yordan Gabriel (SI24R): Gas aja ya?
+
+Sing penting yakin
+[03/10/26, 21.49.56] Rifqi Adhi Saputra (SI23): kayaknya ga sreg nya dibagian WA nya emg sih mas
+[03/10/26, 21.50.14] Rifqi Adhi Saputra (SI23): tapi ga tau bener apa ngga nya ya
+[03/10/26, 21.50.34] Rifqi Adhi Saputra (SI23): kalo pake telegram gitu sebenernya bisa gak ya
+[03/10/26, 21.56.15] Yordan Gabriel (SI24R): ya bisa sih, tinggal ganti telegram aja
+[03/10/26, 21.56.27] Yordan Gabriel (SI24R): nanti pakai bot creator
+[03/10/26, 21.56.43] Yordan Gabriel (SI24R): kalau mau ganti ke tele ya bisa
+[03/10/26, 22.09.38] Rifqi Adhi Saputra (SI23): saya ngikut aja sih enak nya gimana
+[05/10/26, 09.22.10] Yordan Gabriel (SI24R): @⁨‎all⁩
+‎[05/10/26, 09.22.11] Yordan Gabriel (SI24R): ‎<attached: 00000137-PHOTO-2026-10-05-09-22-11.jpg>
+[05/10/26, 09.22.11] Yordan Gabriel (SI24R): aman ya
+[05/10/26, 09.22.20] Yordan Gabriel (SI24R): yang penting pas demo lancar
+[05/10/26, 09.22.51] Yordan Gabriel (SI24R): @⁨Isnaini “Anggis” Anggista Damayanti⁩ kak, dibantu isi2 NIM sama daftar2nya ya.
+
+Yordan Gabriell 
+241220049
+[05/10/26, 09.23.22] Isnaini “Anggis” Anggista Damayanti: Ngokeyy mas
+[05/10/26, 09.23.43] Yordan Gabriel (SI24R): Oke, kalau udah langsung submit aja ya 😇
+[05/10/26, 09.26.43] Isnaini “Anggis” Anggista Damayanti: Ngokeyy
+‎[05/10/26, 09.26.47] Isnaini “Anggis” Anggista Damayanti: ‎<attached: 00000144-STICKER-2026-10-05-09-26-47.webp>
+[05/10/26, 09.43.48] Rifqi Adhi Saputra (SI23): woke siap mas
+[05/10/26, 11.09.08] Isnaini “Anggis” Anggista Damayanti: Ini belom ada tempat submitnya ya mas?
+[05/10/26, 11.22.25] Yordan Gabriel (SI24R): Belum ya?
+
+Coba tanyakan ke pak Al ya
+[06/10/26, 18.15.22] Rifqi Adhi Saputra (SI23): oiya mas, saya malah lupa tanya, kemaren laporannya udah di submit kah jadinya?
+[06/10/26, 18.15.28] Rifqi Adhi Saputra (SI23): atau ada yang kurang ga ya
+[06/10/26, 18.15.34] Rifqi Adhi Saputra (SI23): hari ini deadline kan ya
+[06/10/26, 18.26.05] Yordan Gabriel (SI24R): Betul
+
+Kemarin yang mau submit mbak @⁨Isnaini “Anggis” Anggista Damayanti⁩
+[06/10/26, 18.26.24] Isnaini “Anggis” Anggista Damayanti: Udah aku submit yakk
+[06/10/26, 18.26.33] Rifqi Adhi Saputra (SI23): Wokeh siap, makasih info nya mba
+[07/10/26, 10.08.11] Yordan Gabriel (SI24R): Nitip ya mas mba
+
+Nnti saya tidak bisa hadir...
+[07/10/26, 13.47.15] Rifqi Adhi Saputra (SI23): Baik mas
+[07/10/26, 13.58.12] Rifqi Adhi Saputra (SI23): mas saya mau tanya, ini SAPA ini buat SAAS atau emg bimbel mas nya sendiri ya? saya rada bingung dibagian ininya soalnya ‎<This message was edited>
+[07/10/26, 13.59.17] Yordan Gabriel (SI24R): Buat bimbelnya kan
+[07/10/26, 13.59.23] Yordan Gabriel (SI24R): Namingnya bisa beda dari bisnisnya
+[07/10/26, 13.59.37] Rifqi Adhi Saputra (SI23): berarti bukan saas kan ya?
+[07/10/26, 14.00.26] Yordan Gabriel (SI24R): Bukan, hanya untuk 1 bisnis
+
+Tapi sifatnya bisnis kan dinamis, makanya itu saya tambahin ada input RAG
+
+Jadi kalau ada penambahan product dia akan ambil knowledgenya dari product baru
+[07/10/26, 14.00.38] Rifqi Adhi Saputra (SI23): owalah oke oke siap mas
+[07/10/26, 14.00.42] Yordan Gabriel (SI24R): Sip sip
+[07/10/26, 19.10.15] Agung Nugraha: - Notes for All (Revisi)
+	- Graph (ANSI-based) recreate SEMUANYA
+	- Use Mendeley for Citation (atau aplikasi sejenis)
+	- Landasan Teori:
+		- Sitasi maksimal 5 tahun ke belakang
+	- Alat & Bahan : buat dalam format tabel
+		- Border jangan transparan
+	- Graph
+		- Use Case Diagram : Ingat login untuk use case yang memerlukan auth
+		- Use Case Description : Based on Use Case Diagram
+		- Sequence Diagram : Based on the Use Case Diagram
+		- Class Diagram : Using M-V-C layout
+		- Activity Diagram : Based on Use Case Description
+	- Mockup
+- Notes for Kelompok 1
+	- Mitra di detailkan
+	- Sitasi uses mendeley
+	- Tabel
+	- Alat, Perangkat Keras detailed
+	- Mockup dibuat high videlity
+		- Detailed untuk setiap Pages yang akan dibuat
+	- SDLC (buat UTS)
+	- Notes for UTS
+		- Prototyping Figma
+		- SRS
+[07/10/26, 19.11.46] Agung Nugraha: yang ini ta paste dulu yak di link google yang kemaren buat revisi bareng2nya.
+[07/10/26, 19.11.56] Agung Nugraha: deadline jumat 18.00
+[07/10/26, 19.13.00] Yordan Gabriel (SI24R): Oke...Sebelah kena revisi ga?
+[07/10/26, 19.13.44] Rifqi Adhi Saputra (SI23): oke noted mas, sorry bgt tadi ga bisa ikut hadir
+[07/10/26, 19.14.02] Yordan Gabriel (SI24R): Itu mepet bener deadlinenya
+[07/10/26, 19.14.18] Yordan Gabriel (SI24R): Gabisa sampe minggu apa..
+
+Lg ada acara full sampe sabtu 😂
+[07/10/26, 19.14.45] Rifqi Adhi Saputra (SI23): biar tak kerjain gpp mas, hari ini tak cicil, besok malem coba di liat liat dulu buat di review
+[07/10/26, 19.14.58] Rifqi Adhi Saputra (SI23): bisa di review dulu aja mas untuk note dari pak albert nya, kira kira ada yg perlu di note gak sebelum nanti tak kerjain ‎<This message was edited>
+[07/10/26, 19.15.28] Yordan Gabriel (SI24R): Oke mas Rifqi..
+
+Dibagi aja gapapa sama yang di sini.. jadi ga overload nanti
+[07/10/26, 19.15.37] Rifqi Adhi Saputra (SI23): oke siap mas
+[07/10/26, 19.17.57] Rifqi Adhi Saputra (SI23): mba @⁨Isnaini “Anggis” Anggista Damayanti⁩ , ini laporan terbaru atau ada perubahan lagi sama yang di submit ya mba?
+[07/10/26, 19.19.39] Isnaini “Anggis” Anggista Damayanti: Bentarr
+[07/10/26, 19.20.17] Isnaini “Anggis” Anggista Damayanti: Filenya dilaptop
+[07/10/26, 19.20.38] Rifqi Adhi Saputra (SI23): oke nanti aja gpp mba, ga buru buru banget kok
+‎[07/10/26, 19.20.48] Isnaini “Anggis” Anggista Damayanti: Laporan Capstone Project Kelompok 1.pdf • ‎19 pages ‎<attached: 00000178-Laporan Capstone Project Kelompok 1.pdf>
+[07/10/26, 19.20.52] Isnaini “Anggis” Anggista Damayanti: Yg wordnya
+[07/10/26, 19.20.56] Rifqi Adhi Saputra (SI23): wokey siap mba
+[07/10/26, 19.20.58] Isnaini “Anggis” Anggista Damayanti: Adanya yg pdf
+[07/10/26, 19.21.19] Rifqi Adhi Saputra (SI23): oke gpp mba, saya cek cek dulu aja sambil nunggu yang word
+[07/10/26, 19.42.35] Rifqi Adhi Saputra (SI23): mas/mba, ada yang masih nyimpen contog grafik dari matkul ansi ga ya, saya lupa model nya gimana soalnya
+[07/10/26, 19.52.32] Enrico Yuda Dwinata (SI24T): saya ada mas kayanya di laptop tp, nanti ya
+[07/10/26, 19.52.45] Rifqi Adhi Saputra (SI23): woke mas
+[07/10/26, 19.52.59] Enrico Yuda Dwinata (SI24T): ini saya coba revisi mockupnya ya, yg diminta mockup hifi
+[07/10/26, 19.53.47] Enrico Yuda Dwinata (SI24T): ijin tak edit disini ya mas
+[07/10/26, 19.53.55] Yordan Gabriel (SI24R): Monggo mas
+[07/10/26, 19.54.16] Enrico Yuda Dwinata (SI24T): okie
+[07/10/26, 19.55.11] Enrico Yuda Dwinata (SI24T): apa udh bikin yg berwarna mas? blm tak buka figmanya
+[07/10/26, 20.00.43] Yordan Gabriel (SI24R): Belum mas
+[07/10/26, 20.00.46] Yordan Gabriel (SI24R): Masih begitu kemaren
+[07/10/26, 20.06.56] Yordan Gabriel (SI24R): Ini tak kirim malaman yamg word. Masih di perjalanan blm bisa buka lapt
+[07/10/26, 20.45.19] Rifqi Adhi Saputra (SI23): oke oke mas
+‎[07/10/26, 22.37.11] Enrico Yuda Dwinata (SI24T): 241220073_Enrico Yuda Dwinata.pdf ‎<attached: 00000195-241220073_Enrico Yuda Dwinata.pdf>
+[07/10/26, 22.37.42] Enrico Yuda Dwinata (SI24T): buat ketentuan dll nya ngikut dari sini ya, makasih
+[07/10/26, 22.38.18] Rifqi Adhi Saputra (SI23): oke mas
+‎[07/10/26, 23.41.56] Yordan Gabriel (SI24R): Laporan-Capstone-SAPA-revisi.docx ‎<attached: 00000198-Laporan-Capstone-SAPA-revisi.docx>
+[07/10/26, 23.42.00] Yordan Gabriel (SI24R): @⁨Rifqi Adhi Saputra (SI23)⁩ mas ini ya
+[07/10/26, 23.42.07] Rifqi Adhi Saputra (SI23): woke mas
+[08/10/26, 16.11.49] Rifqi Adhi Saputra (SI23): @⁨Isnaini “Anggis” Anggista Damayanti⁩ mba, nanti kalo semisal senggang, saya minta versi laporan yang udah rapi kayak yang mba kirim kemaren tapi yang versi docx ya mba, biar enak ntar edit nya
+‎[08/10/26, 16.29.50] Isnaini “Anggis” Anggista Damayanti: Laporan Capstone Project Kelompok 1.docx • ‎19 pages ‎<attached: 00000202-Laporan Capstone Project Kelompok 1.docx>
+[08/10/26, 16.29.50] Isnaini “Anggis” Anggista Damayanti: Ini ya mas
+[08/10/26, 16.25.17] Rifqi Adhi Saputra (SI23): siap makasih mba
+[08/10/26, 16.30.05] Enrico Yuda Dwinata (SI24T): mas ngerjainnya nggak di gdocs aja biar bisa ngerjain bareng?
+[08/10/26, 16.30.29] Rifqi Adhi Saputra (SI23): saya belum ngerjain sih mas
+[08/10/26, 16.30.31] Enrico Yuda Dwinata (SI24T): btw mas yordan boleh minta akses figma yg ini ya
+[08/10/26, 16.30.34] Rifqi Adhi Saputra (SI23): monggo kalo mau ngerjain dulu gpp mas
+[08/10/26, 16.30.45] Rifqi Adhi Saputra (SI23): saya ini nanti mau ngelarin grafik nya dulu
+[08/10/26, 16.31.04] Rifqi Adhi Saputra (SI23): sequence nya baru setengah jadi sama masih harus bikin activity diagram nya ini
+[08/10/26, 16.31.25] Rifqi Adhi Saputra (SI23): habis itu paling baru cari citation yg baru baru
+[08/10/26, 16.31.45] Rifqi Adhi Saputra (SI23): sama kalo yg mendeley setauku ga bisa kan di gdocs ‎<This message was edited>
+[08/10/26, 16.43.55] Rifqi Adhi Saputra (SI23): btw kalo emg ga sempet waktunya, bisa pake stitch aja mas, pake gen ai nanti bisa di export ke figma hasil nya
+[08/10/26, 16.45.04] Yordan Gabriel (SI24R): Mas sorry, itu project saya penuh semua jd gabisa share
+
+Itu dicopy aja nnti masukin ke draft baru
+[08/10/26, 16.45.10] Yordan Gabriel (SI24R): Maafkan slow response
+[08/10/26, 16.55.27] Enrico Yuda Dwinata (SI24T): ok
+[08/10/26, 16.55.52] Enrico Yuda Dwinata (SI24T): mas rifq berangkat imk nggak mas
+[08/10/26, 17.00.35] Rifqi Adhi Saputra (SI23): saya ngga berangkat e mas
+[08/10/26, 17.00.58] Rifqi Adhi Saputra (SI23): saya lagi diwates soalnya, rada sayang waktunya kalo mau bolak balek jogja ini mas
+[08/10/26, 17.01.28] Rifqi Adhi Saputra (SI23): sama paling mundur dikit ya mas ngecek nya @⁨Yordan Gabriel (SI24R)⁩ , besok pagi paling baru bisa di cek mas
+[08/10/26, 17.01.37] Rifqi Adhi Saputra (SI23): sama minta tolong drop detail mitra nya ya mas
+[08/10/26, 17.01.44] Rifqi Adhi Saputra (SI23): - Notes for Kelompok 1
+	- Mitra di detailkan
+[08/10/26, 17.01.46] Rifqi Adhi Saputra (SI23): yang ini
+[08/10/26, 17.02.07] Rifqi Adhi Saputra (SI23): ga usah yang panjang lebar ya, secukupnya aja gpp, yang penting bisa buat detail tambahan aja mas
+[08/10/26, 17.28.33] ‎You: ‎You pinned a message
+[08/10/26, 17.26.29] Agung Nugraha: referensi ga harus via mendeley, yang penting link sitasi nya aman aja. prefer yang ada  source google scholar
+[08/10/26, 17.26.59] Agung Nugraha: udah ta copas di dokumen shared google docs, sama referensinya mas enrico iglesias
+[08/10/26, 17.29.22] Rifqi Adhi Saputra (SI23): oke mas, ga perlu tak cariin berarti kalo gitu
+[08/10/26, 17.54.41] Enrico Yuda Dwinata (SI24T): mas rifque boleh minta use case diagramnya kah buat reference mockup, terimakasi
+‎[08/10/26, 18.31.53] Rifqi Adhi Saputra (SI23): kurleb gini sekarang mas ‎<attached: 00000230-PHOTO-2026-10-08-18-31-53.jpg>
+[08/10/26, 18.32.17] Rifqi Adhi Saputra (SI23): saya rad lupa use case itu aktor nya wajib di kiri ato ngga, tapi kayaknya gini gpp
+[08/10/26, 18.32.21] Rifqi Adhi Saputra (SI23): cuma emg kurang rapi aja
+[08/10/26, 18.43.53] Agung Nugraha: di kiriin semua mas
+[08/10/26, 18.44.07] Rifqi Adhi Saputra (SI23): belum semuanya jadi mas
+[08/10/26, 18.54.56] Capstone Project: ‎You changed the group description
+[08/10/26, 19.17.30] Rifqi Adhi Saputra (SI23): @⁨Yordan Gabriel (SI24R)⁩ mas ini kan kemaren salah total yang bagian use case, karena jumlah nya harusnya ada banyak ga cuma 1 gini,
+
+kira kira segini aja cukup gak mas, buat USE CASE nya
+| ID | Use Case | Aktor utama |
+|---|---|---|
+| **UC-01** | **Login** | Agen/CS, Supervisor, Administrator |
+| **UC-02** | **Mengirim Pesan WhatsApp** | **Pelanggan** |
+| **UC-03** | **Mengelola Pesan** | Agen/CS |
+| **UC-04** | **Mengelola Prospek Pelanggan** | Agen/CS |
+| **UC-05** | **Mengelola Kontak Pelanggan** | Agen/CS |
+| **UC-06** | **Mengelola Nomor WhatsApp** | Administrator |
+| **UC-07** | **Mengelola AI & Knowledge Base** | Administrator |
+| **UC-08** | **Mengelola Tim & Hak Akses** | Supervisor/Administrator | ‎<This message was edited>

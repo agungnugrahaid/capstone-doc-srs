@@ -1,0 +1,25 @@
+- Notes for All (Revisi)
+	- Graph (ANSI-based) recreate SEMUANYA
+	- Use Mendeley for Citation (atau aplikasi sejenis)
+	- Landasan Teori:
+		- Sitasi maksimal 5 tahun ke belakang
+	- Alat & Bahan : buat dalam format tabel
+		- Border jangan transparan
+	- Graph
+		- Use Case Diagram : Ingat login untuk use case yang memerlukan auth
+		- Use Case Description : Based on Use Case Diagram
+		- Sequence Diagram : Based on the Use Case Diagram
+		- Class Diagram : Using M-V-C layout
+		- Activity Diagram : Based on Use Case Description
+	- Mockup
+- Notes for Kelompok 1
+	- Mitra di detailkan
+	- Sitasi uses mendeley
+	- Tabel
+	- Alat, Perangkat Keras detailed
+	- Mockup dibuat high videlity
+		- Detailed untuk setiap Pages yang akan dibuat
+	- SDLC (buat UTS)
+	- Notes for UTS
+		- Prototyping Figma
+		- SRS
